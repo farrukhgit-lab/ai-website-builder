@@ -34,7 +34,7 @@ export default function App() {
 
         <div className="input-box">
           <textarea
-            placeholder="Describe your project idea (e.g. Task management app with login and sharing)"
+            placeholder="Describe your project idea ABC DEF GHI JKL (e.g. Task management app with login and sharing)"
             value={description}
             onChange={(e) => setDescription(e.target.value)}
           />
