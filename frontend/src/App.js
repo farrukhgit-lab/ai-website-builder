@@ -30,7 +30,7 @@ export default function App() {
   return (
     <div className="app-container">
       <div className="left-panel">
-        <h1 className="title">🚀 AI Project Orchestrator FAHAD TARIQ</h1>
+        <h1 className="title">🚀 AI Project Orchestrator SALAHUDIN </h1>
 
         <div className="input-box">
           <textarea
